@@ -69,3 +69,56 @@ a:hover{
 footer{
     background-color: #42FAE1;
 }
+nav a{
+    background-color: white;
+    color: #F78E60;
+}
+nav a:hover{
+    background-color: black;
+    color: #d9c2a3;
+}  
+.home-title{
+    background-color: black;
+    color: #d9c2a3;
+}  
+h4{
+    background-color: #d9c2a3;
+    color: black;
+}  
+.book{
+    background-color: black;
+    color: #F78E60;
+}  
+.join{
+    background-color: black;
+    color: #F78E60;
+}
+.book:hover{
+    background-color: #F78E60;
+    color: black;
+}  
+
+.join:hover{
+    background-color: white;
+    color: black;
+}  
+.msg h2{
+    background-color: #F78E60;
+    color: black;
+}  
+.msg p{
+    background-color: #20AB98;
+    color:white;
+}  
+footer{
+    background-color: #20AB98;
+    color:white;
+}  
+footer a{
+    background-color: #20AB98;
+    color:white;
+}  
+footer a:hover{
+    background-color: white;
+    color:black;
+}  
