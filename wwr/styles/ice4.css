@@ -1,0 +1,25 @@
+body{
+    width: 1000 px;
+    background-color: pink;
+}
+
+.maincontent{
+    width: 450 px;
+    background-color: yellow;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1:hover{
+    color: black;
+}
+h1{
+    color: blueviolet;
+    font-weight:900;
+}
+p{
+    color: blue;
+}
+#pnelson{
+    font-weight: 900;
+}
