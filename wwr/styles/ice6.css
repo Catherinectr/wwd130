@@ -1,0 +1,14 @@
+.gridcontainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+.tart{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.cherry{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    z-index: -1;
+}
